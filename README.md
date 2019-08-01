@@ -21,3 +21,5 @@ Changes JoJo's Bizarre Adventure subtitles from HorribleSubs to delocalized name
 3. `cp` it all over the place
 4. `./convert.sh` all over the place
 5. Hope for part 6
+## Contributing
+At this point, you're probably disappointed in my inefficient bash script. It's the effort of a few Google searches, so contribute if you know anything that'll help.
